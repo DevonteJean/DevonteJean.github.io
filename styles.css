@@ -1,0 +1,23 @@
+body{
+  Background-color:#87B4BB;
+  color: white;
+  }
+h1{
+  color: #7FFFF0;
+}
+.under{
+  text-decoration: underline;
+  color:  green;
+  }
+
+#yellow{
+  color:yellow;
+  font-style:italtic;
+}
+/* */
+h1{
+  color:coral;
+}
+img {
+  border-style:double;
+}
